@@ -1,5 +1,6 @@
 # Vinicius Jaeger
-<h2>👋, Olá, me chamo Vinicius Jaeger</a></h2>
+<h2>👋, Hello, I'm Vinicius Jager</a></h2>
+<h2>👋, FullStack Developer who loves work with this technological world, always ready for challenges and new things! </a></h2>
 <p align="left">
   <a href="mailto:viniciusjaegerprogramador@gmail.com"><img height="25" src = "https://img.shields.io/badge/gmail-c14438?&style=for-the-badge&logo=gmail&logoColor=white"></a>
   <a href="https://www.instagram.com/_viniciusjaeger/"><img height='25' src=https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white>
