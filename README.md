@@ -17,6 +17,6 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 
 
-<section display="flex-inline">
- <img aling="left" height="160em" src="https://github-readme-stats.vercel.app/api?username=Augustocct&bg_color=0D1117&title_color=f9826c&text_color=fdfdfd&icon_color=f9826c&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
-
+<section style="display: flex; align-items: left;">
+    <img style="height: 160px;" src="https://github-readme-stats.vercel.app/api?username=ViniciusJaeger&bg_color=0D1117&title_color=f9826c&text_color=fdfdfd&icon_color=f9826c&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
+</section>
