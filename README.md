@@ -1,8 +1,6 @@
 # Vinicius Jaeger
 <h2>👋, Hello, I'm Vinicius Jaeger</a></h2>
 
-<h2>✅ FullStack Developer who loves work with this technological world, always ready for challenges and new things! </a></h2>
-
 <section style="display: flex; align-items: left;">
     <img style="height: 160px;" src="https://github-readme-stats.vercel.app/api?username=ViniciusJaeger&bg_color=0D1117&title_color=f9826c&text_color=fdfdfd&icon_color=f9826c&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
 </section>
